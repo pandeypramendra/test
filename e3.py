@@ -1,5 +1,5 @@
 import json
-
+""" This program is for taking test of stundent in General question and designed for my Son Atharva Pandey"""
 with open('questions.json','r') as file:
     data = json.load(file)
 correct_score=0
